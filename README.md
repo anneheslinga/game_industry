@@ -7,11 +7,8 @@ Node properties and metadata (example game: 'Commandos 3: Destination Berlin')
 Platform
 
 <id>: 416619
-
 medium: physical
-
 name: Arcade - Arcade1UP
-
 type: arcade
 
 
